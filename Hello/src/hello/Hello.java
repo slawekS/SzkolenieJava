@@ -17,6 +17,6 @@ public class Hello {
      */
     public static void main(String[] args) {
         //dodanie komentarza
-        System.out.println("Prubujemy skonfigurować |GITHUB-a");
+        System.out.println("Próbujemy skonfigurować |GITHUB-a");
     }
 }
